@@ -6,8 +6,8 @@ Security is at most concern for anyone nowadays, whether it's data security or s
 
 # Components Required
 
-ESP32 CAM
-FTDI Board
-Relay Module
-Solenoid Lock
-Jumper Wires
+1. ESP32 CAM
+2. FTDI Board
+3. Relay Module
+4. Solenoid Lock
+5. Jumper Wires
